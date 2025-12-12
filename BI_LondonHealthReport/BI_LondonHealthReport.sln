@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "BI_LondonHealthReport", "BI_LondonHealthReport.rptproj", "{24715BB0-03C9-CF57-D25E-BF57B3C067ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24715BB0-03C9-CF57-D25E-BF57B3C067ED}.Debug|Default.ActiveCfg = Debug
+		{24715BB0-03C9-CF57-D25E-BF57B3C067ED}.Debug|Default.Build.0 = Debug
+		{24715BB0-03C9-CF57-D25E-BF57B3C067ED}.Debug|Default.Deploy.0 = Debug
+		{24715BB0-03C9-CF57-D25E-BF57B3C067ED}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{24715BB0-03C9-CF57-D25E-BF57B3C067ED}.DebugLocal|Default.Build.0 = DebugLocal
+		{24715BB0-03C9-CF57-D25E-BF57B3C067ED}.Release|Default.ActiveCfg = Release
+		{24715BB0-03C9-CF57-D25E-BF57B3C067ED}.Release|Default.Build.0 = Release
+		{24715BB0-03C9-CF57-D25E-BF57B3C067ED}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83828BD8-7D9E-4B91-875B-0054C279451D}
+	EndGlobalSection
+EndGlobal
